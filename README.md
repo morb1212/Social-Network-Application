@@ -22,4 +22,4 @@ The social network application consists of several classes:
 - Users can discount the price of their sale posts and mark them as sold.
 ## Tests
 
-for test run auto_check.py
+for test run auto_check.py, test_output.py, main_test.py
