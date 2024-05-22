@@ -13,7 +13,7 @@ The social network application consists of several classes:
 - **postFactory**: Factory class to create different types of posts.
 
 ## Usage
-run main
+run main.py
 
 - The program allows users to sign up with a unique username and password.
 - Users can follow and unfollow each other.
