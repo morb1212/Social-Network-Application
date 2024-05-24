@@ -26,5 +26,5 @@ run main.py
 
 ## Tests
 
--run auto_check.py expected to see succses message
--test_output.txt, main_test.py expected to see main_test output as test_output
+-run auto_check.py expected result:succses message appear upon test complition
+-test_output.txt, main_test.py expected result: main_test output as test_output upon test complition
